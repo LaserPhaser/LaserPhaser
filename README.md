@@ -3,20 +3,6 @@
 
 🔭 I’m currently working on adding Python Dataclasses to the openapi-generator projet and looking for a collaboration on this project.
 
-
-          _.-^^---....,,--       
-      _--                  --_  
-     <                        >)
-     |                         | 
-      \._                   _./  
-         ```--. . , ; .--'''       
-               | |   |             
-            .-=||  | |=-.   
-            `-=#$%&%$#=-'   
-               | ;  :|     
-      _____.,-#%&$@%#&#~,._____                                                            
-
-
 <!--
 **LaserPhaser/LaserPhaser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

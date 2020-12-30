@@ -1,24 +1,20 @@
 ### Hi there 👋
 
 
-🔭 I’m currently working on adding Python Dataclasses to the openapi-generator and looking for a collaboration on this project.
+🔭 I’m currently working on adding Python Dataclasses to the openapi-generator projet and looking for a collaboration on this project.
 
 
-                                                            
-                                                            
-                              /                             
-                             /*/                            
-                            *. .*#                          
-                          (,     ,/                         
-                         *.       .*,                       
-                       &@%##(/**,,..*(,, ..,,..,,,,*.       
-             /@@.     /.        .,,..,/&&%#**,.,....,.....,.
-    @@%             #*.               .*#   ,((((&@&&#(**,.,
-                   /.                   ./            *((((#
-                 /*.                     .*(                
-                /,                         ,(               
-              .%(//////////////////////////((%              
-                                                            
+     _.-^^---....,,--       
+ _--                  --_  
+<                        >)
+|                         | 
+ \._                   _./  
+    ```--. . , ; .--'''       
+          | |   |             
+       .-=||  | |=-.   
+       `-=#$%&%$#=-'   
+          | ;  :|     
+ _____.,-#%&$@%#&#~,._____                                                            
                                                             
 
 <!--
